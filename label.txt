@@ -1,0 +1,20 @@
+Strawberry 草莓
+Pomegranate 石榴
+Plum 李子
+Pitahaya Red 火龍果
+Pineapple 鳳梨
+Pear 梨子
+Peach 桃子
+Passion Fruit 百香果
+Orange 橘子
+Mandarine 柑
+Litchi 荔枝
+Lemon 檸檬
+Kiwi 奇異果
+Guava 芭樂
+Grape White 白葡萄
+Grape Pink 紅葡萄
+Cherry 櫻桃
+Carambula 楊桃
+Banana 香蕉
+Apple 蘋果
